@@ -1,2 +1,3 @@
-# lecture9-1
-A test repository to learn about Github repos
+# Lecture 9-1: An Intro to Github
+
+This repository stores some test Github files. 
